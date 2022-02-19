@@ -1,0 +1,141 @@
+/* css for Horiseon Social Solutions Web Page */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Page Banner Image */
+.hero {
+    height: 840px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* navigation bar */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+#seo {
+    color: #d9dcd6;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+header nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* page body styling */
+body {
+    background-color: #d9dcd6;
+    max-width: 1200px;
+    margin: auto;
+    color: #ffffff;    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+/* left hand side information boxes, SEO, ORM, and SMM */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin: 0 20px 0 20px;
+    max-width: 890px;
+}
+
+.content article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    
+}
+
+.content img {
+    max-height: 200px;
+    margin: 50px;
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* right hand information boxes, benefits information */
+
+.benefits {
+    margin-right: 20px;
+    margin-bottom: 32px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    height: 1000px;
+    background-color: #2589bd;
+    max-width: 250px;
+}
+
+.benefits article {
+    margin-bottom: 25px;
+}
+
+.benefits h3 {
+    margin: 25px 0 10px 0;
+    text-align: center;
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* page footer, just in case its needed later. */
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}

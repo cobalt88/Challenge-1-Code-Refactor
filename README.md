@@ -1,2 +1,3 @@
-# Challenge-1-Code-Refactor
-UCF Web Development Bootcamp Challenge 1
+# Code Refactor Solved
+
+work completed by Vincet Teune, 2-18-2022
