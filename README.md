@@ -22,6 +22,6 @@ Favicon was added just to make the page look more professional, since there was 
 
 The max width of the page elements combined was set to 1200px to maintain their positioning and formatting when viewed on a larger display.
 
-![screenshot](./assets/images/Screenshot (46).png) 
+![screenshot](Screenshot.png) 
 
 
